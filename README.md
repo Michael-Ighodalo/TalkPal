@@ -12,7 +12,8 @@ A personal chatbot that works offline mainly based on Android, it comes with **t
 ## Sample Screenshots
 <p align="center">
   <img align="left" src="https://github.com/Michael-Ighodalo/TalkPal/blob/main/Screenshots/1.png" width=250>
-  <img align="right" src="https://github.com/Michael-Ighodalo/TalkPal/blob/main/Screenshots/1.png" width=250>
+  <img src="https://github.com/Michael-Ighodalo/TalkPal/blob/main/Screenshots/2.png" width=250>
+  <img align="right" src="https://github.com/Michael-Ighodalo/TalkPal/blob/main/Screenshots/3.png" width=250>
 </p>
 ```
 ## Getting Started

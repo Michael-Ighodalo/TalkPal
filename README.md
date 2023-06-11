@@ -2,7 +2,9 @@
 
 ## About!
 
-[ic_launcher-web](https://github.com/Michael-Ighodalo/TalkPal/assets/56733666/74b9b7b3-1473-4171-9d50-af60088998ac)
+<p align="center">
+  <img src="https://github.com/Michael-Ighodalo/TalkPal/blob/main/app/src/main/ic_launcher-web.png" width=250>
+</p>
 
 A personal chatbot that works offline mainly based on Android, it comes with **text to speech feature, make phone calls, open app, send emails** etc.
 * App APK file is located in root folder as **app-debug.apk**
@@ -10,7 +12,6 @@ A personal chatbot that works offline mainly based on Android, it comes with **t
 ## Sample Screenshots
 <p align="center">
   <img align="left" src="https://github.com/Michael-Ighodalo/TalkPal/blob/main/Screenshots/1.png" width=250>
-  <img src="https://github.com/jyotirmoy-paul/BlackBot/blob/master/samples/screenshot2.png" width=250>
   <img align="right" src="https://github.com/Michael-Ighodalo/TalkPal/blob/main/Screenshots/1.png" width=250>
 </p>
 
